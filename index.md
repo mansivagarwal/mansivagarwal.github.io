@@ -1,8 +1,9 @@
-## Mansi Agarwal
+## About
 
-You can use the [editor on GitHub](https://github.com/mansivagarwal/mansivagarwal.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a graduate student at Northeastern University majoring in Information Systems. Thorough and meticulous data analyst passionate about businesses to succeed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I enjoy picking out useful information from huge heaps of data and present them in the form of dashboards to the world for meaningful insights. Possessing strong technical skills rooted in substantial training as an engineer. With 25% of women working in the field of technology I yearn to learn more and something different.
+
 
 ### Markdown
 
