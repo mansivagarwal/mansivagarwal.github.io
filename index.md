@@ -4,19 +4,22 @@ I am a graduate student at Northeastern University majoring in Information Syste
 
 I enjoy reaping out useful information from huge heaps of data and present them in the form of dashboards to the world for meaningful insights. Possessing strong technical skills rooted in substantial training as an engineer. With 25% of women working in the field of technology I yearn to learn more and something different.
 
+* * *
+
 ## Education
 ```markdown
-# Northeastern University
-Master’s in Information Systems                  
+//Northeastern University
+##### Master’s in Information Systems                  
 Relevant Courses: Program Structure (Data structures) and Algorithm, Data Management and Database Design,
 Application Engineering and Development, Data Science Engineering Methods and Tools
 ```
+
+* * *
 
 ## Skills
 
 
 |  Programming Languages      |  Java, Python, C++, R                                     |
-| :---------------------------|:----------------------------------------------------------|
 |  Database Systems           |  MySQL, Microsoft SQL, MongoDB, PostgreSQL                | 
 |  Data Visualization Tools   |  Tableau,Dataiku, Microsoft Excel, Amazon QuickSight      | 
 |  Web Technologies           |  HTML, CSS, Bootstrap                                     | 
