@@ -13,7 +13,7 @@ I enjoy reaping out useful information from huge heaps of data and present them 
 - Web Technologies: HTML, CSS, Bootstrap, JavaScript
 - Frameworks/Tools: Microsoft Office, NetBeans, SSMS, R studio, Jupyter notebook, Google colab
 
-##Projects
+## Projects
 ```markdown
 
 
