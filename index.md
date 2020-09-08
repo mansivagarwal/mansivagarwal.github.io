@@ -2,7 +2,7 @@
 
 I am a graduate student at Northeastern University majoring in Information Systems. Thorough and meticulous data analyst passionate about businesses to succeed.
 
-I enjoy picking out useful information from huge heaps of data and present them in the form of dashboards to the world for meaningful insights. Possessing strong technical skills rooted in substantial training as an engineer. With 25% of women working in the field of technology I yearn to learn more and something different.
+I enjoy reaping out useful information from huge heaps of data and present them in the form of dashboards to the world for meaningful insights. Possessing strong technical skills rooted in substantial training as an engineer. With 25% of women working in the field of technology I yearn to learn more and something different.
 
 
 ### Markdown
