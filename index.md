@@ -26,11 +26,7 @@ Application Engineering and Development, Data Science Engineering Methods and To
 |  Web Technologies           |  HTML, CSS, Bootstrap                                     | 
 |  Frameworks/Tools           |  MS Office, NetBeans, SSMS,Jupyter notebook, Google colab | 
 
-- Programming Languages: Java, Python, C++, R
-- Database Systems: MySQL, Microsoft SQL, MongoDB, PostgreSQL
-- Data Visualization Tools: Tableau,Dataiku, Microsoft Excel, Google Analytics tool, Amazon QuickSight
-- Web Technologies: HTML, CSS, Bootstrap, JavaScript
-- Frameworks/Tools: Microsoft Office, NetBeans, SSMS, R studio, Jupyter notebook, Google colab
+* * *
 
 ## Projects
 ```markdown
