@@ -5,7 +5,13 @@ I am a graduate student at Northeastern University majoring in Information Syste
 I enjoy reaping out useful information from huge heaps of data and present them in the form of dashboards to the world for meaningful insights. Possessing strong technical skills rooted in substantial training as an engineer. With 25% of women working in the field of technology I yearn to learn more and something different.
 
 
-### Markdown
+### Skills
+
+- Programming Languages: Java, Python, C++, R
+- Database Systems: MySQL, Microsoft SQL, MongoDB, PostgreSQL
+- Data Visualization Tools: Tableau,Dataiku, Microsoft Excel, Google Analytics tool, Amazon QuickSight
+- Web Technologies: HTML, CSS, Bootstrap, JavaScript
+- Frameworks/Tools: Microsoft Office, NetBeans, SSMS, R studio, Jupyter notebook, Google colab
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
