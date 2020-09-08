@@ -6,9 +6,10 @@ I enjoy reaping out useful information from huge heaps of data and present them 
 
 ## Education
 ```markdown
-**Northeastern** **University**
+**Northeastern University**
 Master’s in Information Systems                  
-Relevant Courses: Program Structure (Data structures) and Algorithm, Data Management and Database Design, Application Engineering and Development, Data Science Engineering Methods and Tools
+Relevant Courses: Program Structure (Data structures) and Algorithm, Data Management and Database Design,
+Application Engineering and Development, Data Science Engineering Methods and Tools
 ```
 
 ## Skills
