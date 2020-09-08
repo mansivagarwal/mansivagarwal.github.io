@@ -15,12 +15,12 @@ Application Engineering and Development, Data Science Engineering Methods and To
 ## Skills
 
 
-|Programming Languages      |: Java, Python, C++, R |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Programming Languages      |: Java, Python, C++, R                                     |
+|:---------------------------|:----------------------------------------------------------|
+| Database Systems           |: MySQL, Microsoft SQL, MongoDB, PostgreSQL                | 
+| Data Visualization Tools   |: Tableau,Dataiku, Microsoft Excel, Amazon QuickSight      | 
+| Web Technologies           |: HTML, CSS, Bootstrap                                     | 
+| Frameworks/Tools           |: MS Office, NetBeans, SSMS,Jupyter notebook, Google colab | 
 
 - Programming Languages: Java, Python, C++, R
 - Database Systems: MySQL, Microsoft SQL, MongoDB, PostgreSQL
