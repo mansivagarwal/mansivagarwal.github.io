@@ -20,11 +20,11 @@ I enjoy reaping out useful information from huge heaps of data and present them 
 ## Skills
 
 
-|  Programming Languages      |  Java, Python, C++, R                                     |
+|  Programming Languages      |  Java, Python, C++                                        |
 |   :-------------------------|  :--------------------------------------------------------|
 |  Database Systems           |  MySQL, Microsoft SQL, MongoDB, PostgreSQL                | 
 |  Data Visualization Tools   |  Tableau,Dataiku, Microsoft Excel, Amazon QuickSight      | 
-|  Web Technologies           |  HTML, CSS, Bootstrap                                     | 
+|  Web Technologies           |  HTML, CSS                                                | 
 |  Frameworks/Tools           |  MS Office, NetBeans, SSMS,Jupyter notebook, Google colab | 
 
 * * *
