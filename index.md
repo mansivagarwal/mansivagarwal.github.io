@@ -30,7 +30,9 @@ I enjoy reaping out useful information from huge heaps of data and present them 
 * * *
 ## Work Experience
 **BhaktiVedanta Hospital and Research Institute, India**                                                                        Jul 2018- Mar 2019 
+
 Data Analyst Intern: Automated Healthcare Informatics on Service Management (Tableau, SQL)
+
 •	Facilitated data management, created more than 100 personalized and interactive dashboards using data visualization & BI tool, Tableau
 •	Collaborated with all departments to enhance the efficiency of the portal, by brainstorming ideas and sharing information and was successful in recognizing the important KPI's (Key Performance Indicators) for each department
 •	Implemented a centralized Intranet portal using Google website providing a single gateway to all departments and services of the hospital
@@ -39,6 +41,7 @@ Data Analyst Intern: Automated Healthcare Informatics on Service Management (Tab
 * * *
 ## Projects
 1.  Quad Squad Property Management (SSMS, Tableau, Microsoft PowerBi)                                        Jan 2020 – Apr 2020
+
 •	Created an apartment leasing database for the management company who rents apartments to the customers
 •	Designed and developed business rules for the company and identifying the necessary entities and attributes required
 •	Advanced the database and created entity-relationship schema using specialized tools like Microsoft Visio
@@ -46,12 +49,14 @@ Data Analyst Intern: Automated Healthcare Informatics on Service Management (Tab
 •	Visualized the final reports using Data Visualization tools like Tableau and Microsoft Power Bi
 
 2. Data Science Project (The War of Kurukshetra) (Python (pandas, NumPy) )                                            Nov 2019 – Dec 2019
+
 •	Implemented various data mining techniques like Random Forests using Python (NumPy, Pandas, Scikit Learn and Keras) on the Book Ramayana
 •	Utilized web scraping techniques to extract and organize the meaningful data extracted
 •	Predicted the main characters from the book by doing predictive analysis, also implemented text mining and sentimental analysis for the same  
 •	Created a word cloud of lord Krishna and main characters using the words in book
 
 3.Emergency Response Application (Helport) (Java, Netbeans)                                                               Nov 2019 – Dec 2019
+
 •	Developed a web-based application for helping the rape and acid attack victims using technologies like JAVA
 •	Applied various Application ClassLoaders with different .jar files (jfreechart, swtgraphics2d) for creating a simple yet interactive User Interface for the victims
 •	Integrated various organizations and enterprises like Hospital, NGO and Law Firms for helping the victims and providing with the required assistance by passing various workflow requests from one organization to others
@@ -59,6 +64,7 @@ Data Analyst Intern: Automated Healthcare Informatics on Service Management (Tab
 * * *
 ## Extra Curriculars
 1. General Electric Virtual Experience Program Participant (Data Analyst)			                        Aug-2020
+
 Participated in the open access General Electric Virtual Experience Program with InsideSherpa. 
 •	Transformed and orchestrated data 
 •	Combined various PostgreSQL datasets using the Stacked feature of Dataiku application
