@@ -63,7 +63,7 @@ Data Analyst Intern: Automated Healthcare Informatics on Service Management (Tab
 
 * * *
 ## Extra Curriculars
-1. General Electric Virtual Experience Program Participant (Data Analyst)			                        _Aug-2020_
+1.General Electric Virtual Experience Program Participant (Data Analyst)			                        _Aug-2020_
 
 Participated in the open access General Electric Virtual Experience Program with InsideSherpa. 
 *	Transformed and orchestrated data 
@@ -72,7 +72,8 @@ Participated in the open access General Electric Virtual Experience Program with
 *	Curated dashboards and insights using Dataiku application
 [Certificate](https://insidesherpa.s3.amazonaws.com/completion-certificates/General%20Electric%20%28GE%29/ThbphD5N5WRsd9Mxo_General%20Electric_SbMGBNTAmnejoGgA7_completion_certificate.pdf)
 
-2. Visualizing with QuickSight (AWS)                           _Jun-2020_
+2.Visualizing with QuickSight (AWS)                           _Jun-2020_
+
 3.Data Analytics Fundamentals  (AWS)                           _May-2020_
 
 * * *
