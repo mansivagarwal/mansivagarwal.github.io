@@ -80,7 +80,7 @@ Participated in the open access General Electric Virtual Experience Program with
 * Email - <agarwal.ma@northeastern.edu>
 * GitHub - [https://github.com/mansivagarwal](https://github.com/mansivagarwal)
 * LinkedIn - [https://www.linkedin.com/in/mansivagarwal/](https://www.linkedin.com/in/mansivagarwal/)
-* [Resume here](https://github.com/trena-dhingra/trena-dhingra.github.io/raw/master/Resume/TrenaDhingraResume.pdf)
+* [Resume here](https://github.com/mansivagarwal/mansivagarwal.github.io/tree/master/Resume)
 
 
 
