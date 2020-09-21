@@ -33,43 +33,43 @@ I enjoy reaping out useful information from huge heaps of data and present them 
 
 Data Analyst Intern: Automated Healthcare Informatics on Service Management (Tableau, SQL)
 
-•	Facilitated data management, created more than 100 personalized and interactive dashboards using data visualization & BI tool, Tableau
-•	Collaborated with all departments to enhance the efficiency of the portal, by brainstorming ideas and sharing information and was successful in recognizing the important KPI's (Key Performance Indicators) for each department
-•	Implemented a centralized Intranet portal using Google website providing a single gateway to all departments and services of the hospital
-•	Streamlined Authentication and Authorization for all departments by creating personalized Gmail accounts and giving them access to their departmental dashboards using their Email Id’s and passwords 
+*	Facilitated data management, created more than 100 personalized and interactive dashboards using data visualization & BI tool, Tableau
+*	Collaborated with all departments to enhance the efficiency of the portal, by brainstorming ideas and sharing information and was successful in recognizing the important KPI's (Key Performance Indicators) for each department
+*	Implemented a centralized Intranet portal using Google website providing a single gateway to all departments and services of the hospital
+*	Streamlined Authentication and Authorization for all departments by creating personalized Gmail accounts and giving them access to their departmental dashboards using their Email Id’s and passwords 
 
 * * *
 ## Projects
 1.  Quad Squad Property Management (SSMS, Tableau, Microsoft PowerBi)                                        Jan 2020 – Apr 2020
 
-•	Created an apartment leasing database for the management company who rents apartments to the customers
-•	Designed and developed business rules for the company and identifying the necessary entities and attributes required
-•	Advanced the database and created entity-relationship schema using specialized tools like Microsoft Visio
-•	Formulated various SQL queries, triggers, procedures, functions to display different instances of data using SSMS
-•	Visualized the final reports using Data Visualization tools like Tableau and Microsoft Power Bi
+* Created an apartment leasing database for the management company who rents apartments to the customers
+* Designed and developed business rules for the company and identifying the necessary entities and attributes required
+*	Advanced the database and created entity-relationship schema using specialized tools like Microsoft Visio
+*	Formulated various SQL queries, triggers, procedures, functions to display different instances of data using SSMS
+*	Visualized the final reports using Data Visualization tools like Tableau and Microsoft Power Bi
 
 2. Data Science Project (The War of Kurukshetra) (Python (pandas, NumPy) )                                            Nov 2019 – Dec 2019
 
-•	Implemented various data mining techniques like Random Forests using Python (NumPy, Pandas, Scikit Learn and Keras) on the Book Ramayana
-•	Utilized web scraping techniques to extract and organize the meaningful data extracted
-•	Predicted the main characters from the book by doing predictive analysis, also implemented text mining and sentimental analysis for the same  
-•	Created a word cloud of lord Krishna and main characters using the words in book
+*	Implemented various data mining techniques like Random Forests using Python (NumPy, Pandas, Scikit Learn and Keras) on the Book Ramayana
+*	Utilized web scraping techniques to extract and organize the meaningful data extracted
+*	Predicted the main characters from the book by doing predictive analysis, also implemented text mining and sentimental analysis for the same  
+*	Created a word cloud of lord Krishna and main characters using the words in book
 
 3.Emergency Response Application (Helport) (Java, Netbeans)                                                               Nov 2019 – Dec 2019
 
-•	Developed a web-based application for helping the rape and acid attack victims using technologies like JAVA
-•	Applied various Application ClassLoaders with different .jar files (jfreechart, swtgraphics2d) for creating a simple yet interactive User Interface for the victims
-•	Integrated various organizations and enterprises like Hospital, NGO and Law Firms for helping the victims and providing with the required assistance by passing various workflow requests from one organization to others
+*	Developed a web-based application for helping the rape and acid attack victims using technologies like JAVA
+*	Applied various Application ClassLoaders with different .jar files (jfreechart, swtgraphics2d) for creating a simple yet interactive User Interface for the victims
+*	Integrated various organizations and enterprises like Hospital, NGO and Law Firms for helping the victims and providing with the required assistance by passing various workflow requests from one organization to others
 
 * * *
 ## Extra Curriculars
 1. General Electric Virtual Experience Program Participant (Data Analyst)			                        Aug-2020
 
 Participated in the open access General Electric Virtual Experience Program with InsideSherpa. 
-•	Transformed and orchestrated data 
-•	Combined various PostgreSQL datasets using the Stacked feature of Dataiku application
-•	Integrated calculated columns in the datasets combined for analysis 
-•	Curated dashboards and insights using Dataiku application
+*	Transformed and orchestrated data 
+*	Combined various PostgreSQL datasets using the Stacked feature of Dataiku application
+*	Integrated calculated columns in the datasets combined for analysis 
+*	Curated dashboards and insights using Dataiku application
 [Certificate](https://insidesherpa.s3.amazonaws.com/completion-certificates/General%20Electric%20%28GE%29/ThbphD5N5WRsd9Mxo_General%20Electric_SbMGBNTAmnejoGgA7_completion_certificate.pdf)
 
 2. Visualizing with QuickSight (AWS)                           Jun-2020
