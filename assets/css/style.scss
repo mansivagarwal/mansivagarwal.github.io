@@ -4,9 +4,10 @@ header a.button small {
 }
 
 table {
-    border : 0px !important
+    border : 0px !important #000000
 }
 
 ul {
-    list-style-type:none
+    list-style-type:none !important;
+    list-style:none !important
 }
