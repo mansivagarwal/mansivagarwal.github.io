@@ -40,7 +40,7 @@ Data Analyst Intern: Automated Healthcare Informatics on Service Management (Tab
 
 * * *
 ## Projects
-1. **Quad Squad Property Management (SSMS, Tableau, Microsoft PowerBi)**                                        _Jan 2020 – Apr 2020_
+1.**Quad Squad Property Management (SSMS, Tableau, Microsoft PowerBi)**                                        _Jan 2020 – Apr 2020_
 
 * Created an apartment leasing database for the management company who rents apartments to the customers
 * Designed and developed business rules for the company and identifying the necessary entities and attributes required
@@ -48,14 +48,14 @@ Data Analyst Intern: Automated Healthcare Informatics on Service Management (Tab
 *	Formulated various SQL queries, triggers, procedures, functions to display different instances of data using SSMS
 *	Visualized the final reports using Data Visualization tools like Tableau and Microsoft Power Bi
 
-2. **Data Science Project (The War of Kurukshetra) (Python (pandas, NumPy) )**                                            _Nov 2019 – Dec 2019_
+2.**Data Science Project (The War of Kurukshetra) (Python (pandas, NumPy) )**                                            _Nov 2019 – Dec 2019_
 
 *	Implemented various data mining techniques like Random Forests using Python (NumPy, Pandas, Scikit Learn and Keras) on the Book Ramayana
 *	Utilized web scraping techniques to extract and organize the meaningful data extracted
 *	Predicted the main characters from the book by doing predictive analysis, also implemented text mining and sentimental analysis for the same  
 *	Created a word cloud of lord Krishna and main characters using the words in book
 
-3. **Emergency Response Application (Helport) (Java, Netbeans)**                                                               _Nov 2019 – Dec 2019_
+3.**Emergency Response Application (Helport) (Java, Netbeans)**                                                               _Nov 2019 – Dec 2019_
 
 *	Developed a web-based application for helping the rape and acid attack victims using technologies like JAVA
 *	Applied various Application ClassLoaders with different .jar files (jfreechart, swtgraphics2d) for creating a simple yet interactive User Interface for the victims
