@@ -10,10 +10,12 @@ I enjoy reaping out useful information from huge heaps of data and present them 
 **Northeastern University**
 -Master’s in Information Systems
 
- Relevant Courses: Program Structure (Data structures) and Algorithm, Data Management and Database Design, Application Engineering and Development, Data Science Engineering Methods and Tools
+ Relevant Courses: Data warehousing and Business Intelligence, Program Structure (Data structures) and Algorithm, Data Management and Database Design, Application Engineering and Development, Data Science Engineering Methods and Tools
 
 **University of Mumbai**
 -Bachelor of Engineering in Information Technology
+
+Relevant Courses: Data Mining,Software Engineering, Software Project Management, Enterprise Resource Planning
 
 * * *
 
