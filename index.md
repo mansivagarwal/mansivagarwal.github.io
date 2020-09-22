@@ -42,7 +42,7 @@ Data Analyst Intern: Automated Healthcare Informatics on Service Management (Tab
 ## Projects
 1.**Quad Squad Property Management**  _Jan 2020 – Apr 2020_
 
-Tech used -SSMS, Tableau, Microsoft PowerBi                                     
+**Tech used** -SSMS, Tableau, Microsoft PowerBi                                     
 
 * Created an apartment leasing database for the management company who rents apartments to the customers
 * Designed and developed business rules for the company and identifying the necessary entities and attributes required
@@ -52,7 +52,7 @@ Tech used -SSMS, Tableau, Microsoft PowerBi
 
 2.**Data Science Project (The War of Kurukshetra)**   _Nov 2019 – Dec 2019_
 
-Tech used -Python, pandas, NumPy
+**Tech used** -Python, pandas, NumPy
 
 *	Implemented various data mining techniques like Random Forests using Python (NumPy, Pandas, Scikit Learn and Keras) on the Book Ramayana
 *	Utilized web scraping techniques to extract and organize the meaningful data extracted
@@ -61,7 +61,7 @@ Tech used -Python, pandas, NumPy
 
 3.**Emergency Response Application (Helport)**                                                               _Nov 2019 – Dec 2019_
 
-Tech used -Java, Netbeans
+**Tech used** -Java, Netbeans
 
 *	Developed a web-based application for helping the rape and acid attack victims using technologies like JAVA
 *	Applied various Application ClassLoaders with different .jar files (jfreechart, swtgraphics2d) for creating a simple yet interactive User Interface for the victims
