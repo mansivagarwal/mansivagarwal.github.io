@@ -59,7 +59,14 @@ Data Analyst Intern: Automated Healthcare Informatics on Service Management (Tab
 * Amplified loading of data into the dimensional model using Talend workflow
 * Assessed the data further by firing SQL queries and then visualized the data by curating 3 interactive dashboards using Tableau and Power Bi
 
-2.**Quad Squad Property Management**  _Jan 2020 – Apr 2020_
+2.**NYC Dataset ETL Process**_Oct 2020_
+
+***Tech used** -SQL, Talend, Tableau
+* Designed and implemented ETL for Open Camera data load from heterogeneous sources to target database SQL as fact
+and Slowly Changing Dimension (SCD-Type1 and Type2)
+* Loaded the data using Talend and performed data profiling to find errors and created 2 dashboards using Tableau
+
+3.**Quad Squad Property Management**  _Jan 2020 – Apr 2020_
 
 **Tech used** -SSMS, Tableau, Microsoft PowerBi                                     
 
@@ -69,7 +76,7 @@ Data Analyst Intern: Automated Healthcare Informatics on Service Management (Tab
 *	Formulated various SQL queries, triggers, procedures, functions to display different instances of data using SSMS
 *	Visualized the final reports using Data Visualization tools like Tableau and Microsoft Power Bi
 
-3.**Data Science Project (The War of Kurukshetra)**   _Nov 2019 – Dec 2019_
+4.**Data Science Project (The War of Kurukshetra)**   _Nov 2019 – Dec 2019_
 
 **Tech used** -Python, pandas, NumPy
 
@@ -78,7 +85,7 @@ Data Analyst Intern: Automated Healthcare Informatics on Service Management (Tab
 *	Predicted the main characters from the book by doing predictive analysis, also implemented text mining and sentimental analysis for the same  
 *	Created a word cloud of lord Krishna and main characters using the words in book
 
-4.**Emergency Response Application (Helport)**                                                               _Nov 2019 – Dec 2019_
+5.**Emergency Response Application (Helport)**                                                               _Nov 2019 – Dec 2019_
 
 **Tech used** -Java, Netbeans
 
