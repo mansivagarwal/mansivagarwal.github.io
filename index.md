@@ -61,7 +61,7 @@ Data Analyst Intern: Automated Healthcare Informatics on Service Management (Tab
 
 2.**NYC Dataset ETL Process**_Oct 2020_
 
-***Tech used** -SQL, Talend, Tableau
+**Tech used** -SQL, Talend, Tableau
 * Designed and implemented ETL for Open Camera data load from heterogeneous sources to target database SQL as fact
 and Slowly Changing Dimension (SCD-Type1 and Type2)
 * Loaded the data using Talend and performed data profiling to find errors and created 2 dashboards using Tableau
