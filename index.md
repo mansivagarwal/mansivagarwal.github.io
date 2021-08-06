@@ -35,10 +35,10 @@ Relevant Courses: Data Mining,Software Engineering, Software Project Management,
 
 Data Science Intern: (Python)
 
-* Working with Python code to scrape data from openly available sources on the internet
-* Curate a list of available data sources and build solutions to capture the data
-* Analyzing structured and unstructured data to support client deliverables
-* Application of NLP techniques to gain insight from unstructured data sources and building dashboard solution
+* Cleaned raw data and analyzed the statistics using data wrangling techniques and built ML models for identification of competitive position of clients
+* Developed web crawler using BeautifulSoup to scrape the unstructured web data into a structured format to summarize the data into dashboards
+* Performed segmentation using k-means method of a hospital data to provide insights for developing marketing strategy
+* Scraped data of some companies to perform sentimental analysis of the keywords which help increase the page rank
 
 **BhaktiVedanta Hospital and Research Institute, India**                                                                        _Jul 2018- Mar 2019_ 
 
